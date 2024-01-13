@@ -1,2 +1,1 @@
-# PrepCourseHenry2
-Repositorio de prueba n2
+Este ptroyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
